@@ -1,4 +1,4 @@
-package com.example.demo
+package com.utsiktenutleie
 
 // This file is intentionally left empty.
 // The project uses a local datasource setup instead of Docker-based Testcontainers,

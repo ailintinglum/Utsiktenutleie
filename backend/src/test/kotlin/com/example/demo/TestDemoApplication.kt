@@ -1,4 +1,4 @@
-package com.example.demo
+package com.utsiktenutleie
 
 import org.springframework.boot.fromApplication
 
